@@ -2,7 +2,7 @@
 
 Please refere the following links for some examples to improve your coding/technology skills,
 
-- [Core Java](Code%20Java.md)  
-- [Java Stream](https://breakdance.github.io/breakdance/)  
-- [Spring Boot](https://breakdance.github.io/breakdance/)  
-- [Micro Service](https://breakdance.github.io/breakdance/)  
+- [Core Java](Core%20Java.md)  
+- [Java Stream](Java%20Streams.md) 
+- [Spring Boot](Springboot.md) 
+- [Micro Services](Micro%20Services.md)   
