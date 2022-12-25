@@ -4,7 +4,7 @@
 **Example:** If string is `abcabde` ->> Then answer will be `c`
 <details>
   <summary>**Click here to show the solution**</summary>
-  ```
-Stream.of(str.split("")).filter(ch -> str.indexOf(ch, str.indexOf(ch) + 1) == -1).findFirst()
+  ```java
+		Stream.of(str.split("")).filter(ch -> str.indexOf(ch, str.indexOf(ch) + 1) == -1).findFirst()
   ```
   </details>
