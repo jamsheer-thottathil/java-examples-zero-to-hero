@@ -6,7 +6,7 @@
 
 <details>
   <summary>Click here to show the solution</summary>
-    Stream.of(str.split("")).filter(ch -> str.indexOf(ch, str.indexOf(ch) + 1) == -1).findFirst()
+				Stream.of(str.split("")).filter(ch -> str.indexOf(ch, str.indexOf(ch) + 1) == -1).findFirst()
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
