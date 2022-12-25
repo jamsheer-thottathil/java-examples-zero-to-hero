@@ -7,6 +7,7 @@
 <details>
   <summary>Click here to show the solution</summary>
   
+	final String str = "abcabde";
     Stream.of(str.split("")).filter(ch -> str.indexOf(ch, str.indexOf(ch) + 1) == -1).findFirst()
 	
 </details>
